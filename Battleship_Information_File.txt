@@ -1,0 +1,26 @@
+This files has been created by CX1003 Introduction to Computation Thinking Team 3.
+The group members are Jackson, Joel and Haoyang.
+
+The zipped file contains the following files:
+1. Battleship+.py
+2. Battleship_game_module.py
+3. Database.pickle
+4. Group_Tang_Tay_Li.pdf
+5. Python_Team_3.pptx
+
+We have prepared a set of user accounts for your gameplay:
+
+Username: user0
+Password: Password@1
+DOB: 16121995
+*New account
+
+Username: user1
+Password: Password@1
+DOB: 28081997
+*Locked Account
+
+Username: user2
+password: Password@1
+DOB: 09081998
+*Account with 2 Attempts left
